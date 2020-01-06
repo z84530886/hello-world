@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Hi,humans.This is the first step of me to control this world.
